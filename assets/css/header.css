@@ -1,0 +1,99 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Lato", sans-serif;
+}
+
+img {
+  max-width: 85%;
+  height: auto;
+  margin-left: 0px;
+  margin-top: 0px;
+  background: #4b0082;
+}
+
+.dd-menu {
+  margin-top: -30px;
+}
+
+.ml-auto .dropdown-menu {
+  left: auto !important;
+  right: 0px;
+}
+
+@media (min-width: 376px) {
+  .gestion {
+    text-align: center;
+    color: aliceblue;
+    margin-top: -15px;
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 768px) {
+  .gestion {
+    text-align: center;
+    color: aliceblue;
+    margin-top: -20px;
+    font-size: 15px;
+  }
+}
+
+.navbar-custom { 
+  color: #310202;
+  background-color: #cec3ec !important; 
+  margin-top: -10px;
+  height: 55px;
+}
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    background-color: #7e63d1; /* add background-color to active links */
+}
+/* change the link color and add padding for height */
+.navbar-custom .navbar-nav .nav-link {
+  padding: 1rem 1rem;
+}
+
+/* for dropdown only - change the color of droodown */
+.navbar-custom .dropdown-menu {
+  background-color: #cec3ec;
+}
+.navbar-custom .dropdown-item {
+  color: #4b0082;
+}
+
+.navbar-custom .dropdown-item:hover,
+.navbar-custom .dropdown-item:focus {
+    background-color: #7e63d1;
+}
+
+.nav-link{
+  color: #4b0082 !important;
+}
+
+.b-md{
+  width: 30px;
+  height: 30px;
+}
+
+@media (min-width: 992px) {
+  .gestion {
+    text-align: center;
+    margin-top: -28px;
+    font-size: 22px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .gestion {
+    text-align: center;
+    color: aliceblue;
+    margin-top: -35px;
+    font-size: 25px;
+  }
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+}
