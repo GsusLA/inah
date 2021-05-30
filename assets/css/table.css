@@ -1,0 +1,139 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Lato', sans-serif;
+}
+
+
+.p1{
+     color: #000000;
+     text-align: justify;
+     font-weight: 100;
+     font-size: 16px;
+     width: 130%;
+ }
+.fac {
+    color: #2196ff;
+    text-shadow: 1px 1px 1px #ccc;
+    font-size: 20px;
+}
+.fac1 {
+    color: #000000;
+    text-shadow: 1px 1px 1px #ccc;
+    font-size: 20px;
+}
+hr.style2 {
+    border-top: 3px double #3590cb;
+    width: 100%;
+}
+
+
+
+div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+nav{
+  width: 100%;
+  margin: 1em auto;
+}
+nav::after {
+  content: '';
+  display: inline-block;
+  width: 100%;
+}
+
+ul{
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+ul.dropdown{
+  position: relative; 
+  width: 100%;
+}
+
+ul.dropdown li{
+  font-weight: bolder;
+    font-size: 12px;
+  float: left; 
+  width: 158px;
+  position: relative;
+  background: #cec3ec;
+}
+
+ul.dropdown a:hover{
+  color: rgb(175, 178, 233); 
+}
+
+ul.dropdown li a {
+  display: block; 
+  padding: 10px 3px;
+  color: #156dc5; 
+  position: relative; 
+  z-index: 2000; 
+  text-align: justify-all;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+ul.dropdown li a:hover,
+ul.dropdown li a.hover{
+  background: #5b2fdf;
+  position: relative;
+  color: #c4cfee;
+}
+
+
+ul.dropdown ul{
+ display: none;
+ position: absolute; 
+  top: 0; 
+  left: 0; 
+  width: 180px;
+  z-index: 1000;
+}
+
+ul.dropdown ul li {
+  font-weight: normal; 
+  background: #8863f9;
+  color: #cec3ec; 
+  border-bottom: 1px solid #ccc; 
+}
+
+ul.dropdown ul li a{
+  display: block; 
+  color: #156dc5 !important; /* font color dropdown menu  **/
+  background: #cec3ec !important;
+} 
+
+ul.dropdown ul li a:hover{
+  display: block; 
+  background: #9d83e2 !important; /* font color dropdown menu  **/
+  color: #4110d4 !important;
+} 
+
+.drop > a{
+  position: relative;
+}
+
+.drop > a:after{
+  content:"";
+  position: absolute;
+  right: 10px;
+  top: 40%;
+  border-top: 5px solid rgb(62, 90, 212);
+  border-right: 5px solid transparent;
+  z-index: 999;
+}
+
+.drop > a:hover:after{
+  content:"";
+   border-left: 5px solid transparent;
+  border-top: 5px solid #fff;
+  border-right: 5px solid transparent;
+}
+

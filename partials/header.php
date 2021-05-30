@@ -24,22 +24,22 @@ require("partials/main.php");
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item"><a class="nav-link" href="index">Inicio</a></li>
                     <li class="nav-item"><a class="nav-link" href="somos">Quienes Somos</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Commité Ejecutivo</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Comunicación y Prensa</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Normateca</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Ubicación</a></li>
+                    <li class="nav-item"><a class="nav-link" href="comite_ejecutivo">Commité Ejecutivo</a></li>
+                    <li class="nav-item"><a class="nav-link" href="comunicacion">Comunicación y Prensa</a></li>
+                    <li class="nav-item"><a class="nav-link" href="normateca">Normateca</a></li>
+                    <li class="nav-item"><a class="nav-link" href="ubicacion">Ubicación</a></li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Transparecia
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="#">Unidad de Transparencia<br> (Ubicación)</a>
-                            <a class="dropdown-item" href="#">Comité de Transparencia</a>
+                            <a class="dropdown-item" href="ubicacion">Unidad de Transparencia<br> (Ubicación)</a>
+                            <a class="dropdown-item" href="comite_transparencia">Comité de Transparencia</a>
                             <a class="dropdown-item" href="https://consultapublicamx.inai.org.mx/vut-web/?idSujetoObigadoParametro=20299&idEntidadParametro=33&idSectorParametro=20" target="_blank"><img src="assets/img/01.jpg" alt="" class="img-fluid" style="width:170px;height:60px; margin-top: 5px; "></a>
-                            <a class="dropdown-item" href="#">Normatividad Aplicable</a>
-                            <a class="dropdown-item" href="#">Expedientes Reservados </a>
-                            <a class="dropdown-item" href="#">Días Inhábiles</a>
-                            <a class="dropdown-item" href="#">Denuncias</a>
+                            <a class="dropdown-item" href="normatividad">Normatividad Aplicable</a>
+                            <a class="dropdown-item" href="expedientes_reservados">Expedientes Reservados </a>
+                            <a class="dropdown-item" href="dias_inhabiles">Días Inhábiles</a>
+                            <a class="dropdown-item" href="denuncias">Denuncias</a>
                         </div>
                     </li>
                 </ul>
