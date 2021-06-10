@@ -107,6 +107,22 @@ require("partials/header.php");
                                 <td class="text-left">TOMA DE NOTA COMITÉ JOEL SANTOS SNPICD-INAH</td>
                                 <td><a href="assets/pdfs/TOMA DE NOTA COMITÉ JOEL SANTOS SNPICDINAH.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
                             </tr>
+                            <tr>
+                                <td class="text-left">Convenio</td>
+                                <td><a href="assets/pdfs/CONVENIO.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                            </tr>
+                            <tr>
+                                <td class="text-left">Toma de Nota de Condiciones Generales de Trabajo</td>
+                                <td><a href="assets/pdfs/TOMA DE NOTA DE LAS CONDICIONES GENERALES DE TRABAJO.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                            </tr>
+                            <tr>
+                                <td class="text-left">Toma de Nota del Comité</td>
+                                <td><a href="assets/pdfs/TOMA DE NOTA DEL COMITE.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                            </tr>
+                            <tr>
+                                <td class="text-left">REGLAMENTO DE ADMISIÓN, EVALUACIÓN, PROMOCIÓN Y DE CONCURSOS Y EXÁMENES DE OPOSICIÓN, <br>PARA EL PERSONAL DE INVESTIGACIONES CIENTÍFICAS Y DOCENCIA DEL INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA</td>
+                                <td><a href="assets/pdfs/REGLAMENTO DE ESCALAFON 1.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                            </tr>
                             <thead class="thead-dark">
                                 <tr>
                                     <th class="text-left" colspan="2">MANUAL DE LINEAMIENTOS PARA LA OPERACIÓN DEL FONDO DE AHORRO CAPITALIZABLE DE LOS TRABAJADORES AL SERVICIO DEL ESTADO (FONAC)</th>
