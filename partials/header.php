@@ -35,7 +35,7 @@ require("partials/main.php");
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <a class="dropdown-item" href="ubicacion">Unidad de Transparencia<br> (Ubicación)</a>
                             <a class="dropdown-item" href="comite_transparencia">Comité de Transparencia</a>
-                            <a class="dropdown-item" href="https://consultapublicamx.inai.org.mx/vut-web/?idSujetoObigadoParametro=20299&idEntidadParametro=33&idSectorParametro=20" target="_blank"><img src="assets/img/01.jpg" alt="" class="img-fluid" style="width:170px;height:60px; margin-top: 5px; "></a>
+                            <a class="dropdown-item" href="https://consultapublicamx.inai.org.mx/vut-web/?idSujetoObigadoParametro=20299&idEntidadParametro=33&idSectorParametro=20" target="_blank"><img src="assets/img/02.png" alt="" class="img-fluid" style="width:170px;height:60px; margin-top: 5px; "></a>
                             <a class="dropdown-item" href="normatividad">Normatividad Aplicable</a>
                             <a class="dropdown-item" href="expedientes_reservados">Expedientes Reservados </a>
                             <a class="dropdown-item" href="dias_inhabiles">Días Inhábiles</a>

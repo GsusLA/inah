@@ -105,6 +105,26 @@
                         <td class="text-left">Condiciones Generales de Trabajo SNPICD-INAH</td>
                         <td><a href="assets/pdfs/CGT VERSION PUBLICA.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
                     </tr>
+                    <tr>
+                        <td class="text-left">Convenio</td>
+                        <td><a href="assets/pdfs/CONVENIO.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="text-left">Toma de Nota de Condiciones Generales de Trabajo</td>
+                        <td><a href="assets/pdfs/TOMA DE NOTA DE LAS CONDICIONES GENERALES DE TRABAJO.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="text-left">Toma de Nota del Comité</td>
+                        <td><a href="assets/pdfs/TOMA DE NOTA DEL COMITE.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="text-left">REGLAMENTO DE ADMISIÓN, EVALUACIÓN, PROMOCIÓN Y DE CONCURSOS Y EXÁMENES DE OPOSICIÓN, <br>PARA EL PERSONAL DE INVESTIGACIONES CIENTÍFICAS Y DOCENCIA DEL INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA</td>
+                        <td><a href="assets/pdfs/REGLAMENTO DE ESCALAFON 1.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                    </tr>
+                    <tr>
+                        <td class="text-left"><br>Reglamento Seguridad e Higiene SPF</td>
+                        <td><a href="assets/pdfs/Reglamento seguridad e higiene SPF.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                    </tr>
                 </tbody>
             </table>
         </div>

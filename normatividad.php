@@ -85,6 +85,36 @@ require("partials/header.php");
                                 <td class="text-left">Ley General de Archivos</td>
                                 <td><a href="assets/pdfs/ACTUAL_LEY GENERAL DE ARCHIVOS.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
                             </tr>
+
+                            <tr>
+                                <td class="text-left">CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS 28/05/2021</td>
+                                <td><a href="assets/pdfs/CONSTITUCION_1.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="text-left">LEY FEDERAL DEL TRABAJO 23/04/2021</td>
+                                <td><a href="assets/pdfs/LEY FEDERAL DEL TRABAJO_1.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="text-left">LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL 07/06/2021</td>
+                                <td><a href="assets/pdfs/LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO REGLAMENTARIA DEL APARTADO B DEL ARTÍCULO 123 CONSTITUCIONAL_1.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="text-left">LEY REGLAMENTARIA DE LA FRACCIÓN XIII BIS DEL APARTADO B, DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS 23/04/2021</td>
+                                <td><a href="assets/pdfs/LEY REGLAMENTARIA DE LA FRACCIÓN XIII BIS DEL APARTADO B DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS_1.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="text-left">LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA 20/05/2021</td>
+                                <td><a href="assets/pdfs/LEY FEDERAL DE TRANSPARENCIA_1.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                            </tr>
+
+                            <tr>
+                                <td class="text-left">LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA 20/05/2021</td>
+                                <td><a href="assets/pdfs/LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA_1.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                            </tr>
                             <thead class="thead-dark">
                                 <tr>
                                     <th class="text-left" colspan="2">DOCUMENTOS DEL SNPICD-INAH</th>
@@ -106,6 +136,26 @@ require("partials/header.php");
                             <tr>
                                 <td class="text-left">TOMA DE NOTA COMITÉ JOEL SANTOS SNPICD-INAH</td>
                                 <td><a href="assets/pdfs/TOMA DE NOTA COMITÉ JOEL SANTOS SNPICDINAH.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                            </tr>
+                            <tr>
+                                <td class="text-left">Convenio</td>
+                                <td><a href="assets/pdfs/CONVENIO.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                            </tr>
+                            <tr>
+                                <td class="text-left">Toma de Nota de Condiciones Generales de Trabajo</td>
+                                <td><a href="assets/pdfs/TOMA DE NOTA DE LAS CONDICIONES GENERALES DE TRABAJO.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                            </tr>
+                            <tr>
+                                <td class="text-left">Toma de Nota del Comité</td>
+                                <td><a href="assets/pdfs/TOMA DE NOTA DEL COMITE.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                            </tr>
+                            <tr>
+                                <td class="text-left">REGLAMENTO DE ADMISIÓN, EVALUACIÓN, PROMOCIÓN Y DE CONCURSOS Y EXÁMENES DE OPOSICIÓN, <br>PARA EL PERSONAL DE INVESTIGACIONES CIENTÍFICAS Y DOCENCIA DEL INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA</td>
+                                <td><a href="assets/pdfs/REGLAMENTO DE ESCALAFON 1.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
+                            </tr>
+                            <tr>
+                                <td class="text-left"><br>Reglamento Seguridad e Higiene SPF</td>
+                                <td><a href="assets/pdfs/Reglamento seguridad e higiene SPF.pdf" target="_BLACK" style="color: darkred"><img src="assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
                             </tr>
                             <thead class="thead-dark">
                                 <tr>
