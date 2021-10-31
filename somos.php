@@ -2,18 +2,38 @@
 require("partials/header.php");
 ?>
 
-
-    <div class="container">
-        <div ><h2><b>¿Quiénes somos?</b></h2>
-        <p style="font-weight: 400;text-align:justify">Somos una organización sindical de carácter gremial, como lo establece la Fracción I del Artículo 360 de la Ley Federal del Trabajo de aplicación supletoria a la Ley Federal de los Trabajadores al Servicio del Estado, formada por trabajadores activos, jubilados y pensionados, cuya especialidad sea o haya sido la de Profesores de Investigación Científica y Docencia que laboren o hayan laborado para el cumplimiento de los objetivos y funciones del INAH. </p>
-        <p style="font-weight: 400;text-align:justify">Se entiende por especialidad, las labores sustantivas de investigación científica sobre antropología e historia, relacionadas principalmente con la población del país y con la conservación y restauración del patrimonio cultural, arqueológico e histórico, así como el paleontológico; la protección, conservación, restauración y recuperación de ese patrimonio y la promoción y difusión de las materias y actividades que son de la competencia del INAH; así como la impartición de la enseñanza en las áreas de antropología e historia, conservación, restauración y museografía. </p>
-        <div class="row">
-            <div class="col-md-12">
-                <p ><h4 style="text-align: center;">Organigrama SNPICD-INAH</h4></p>
+<section id="presentacion">
+    <div class="index-cont 1">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 mb-mt-2 mt-4 mb-4">
+                    <div class="col-lg-8 offset-lg-2 mb-md-3 mb-5">
+                        <h3 class="main-title">¿Quienes somos? </h3>
+                    </div>
+                    <p class="main-desc" style="text-align: justify">
+                        Somos una organización sindical de carácter gremial, como lo establece la Fracción I del Artículo 360 de la Ley Federal del Trabajo de aplicación supletoria a la Ley Federal de los Trabajadores al Servicio del Estado, formada por trabajadores activos, jubilados y pensionados, cuya especialidad sea o haya sido la de Profesores de Investigación Científica y Docencia que laboren o hayan laborado para el cumplimiento de los objetivos y funciones del INAH.
+                        Se entiende por especialidad, las labores sustantivas de investigación científica sobre antropología e historia, relacionadas principalmente con la población del país y con la conservación y restauración del patrimonio cultural, arqueológico e histórico, así como el paleontológico; la protección, conservación, restauración y recuperación de ese patrimonio y la promoción y difusión de las materias y actividades que son de la competencia del INAH; así como la impartición de la enseñanza en las áreas de antropología e historia, conservación, restauración y museografía.
+                    </p>
+                </div>
             </div>
         </div>
-        
-        <img src="assets/img/comite_ejecutivo.png" alt="Comité Ejecutivo" style="width: 100%;">
+    </div>
+    <br>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mb-mt-2 mt-4 mb-4">
+                <div class="col-lg-8 offset-lg-2 mb-md-3 mb-5">
+                    <h3 class="main-title">Organigrama SNPICD-INAH</h3>
+                </div>  
+                <p class="main-desc">
+                <img src="assets/img/comite_ejecutivo.png" alt="Comité Ejecutivo" style="width: 100%;">
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+    <div class="container">
         <br><br>
         <p><b>El Sindicato no tiene fines de lucro y tiene por objeto: </b></p>
         <ol>
@@ -66,7 +86,7 @@ require("partials/header.php");
         <p><b>VIII. Las demás que la normatividad institucional establezca. </b></p>
         <p><b>III. Comisiones Específicas. </b></p>
         <p style="font-weight: 400; text-align:justify">Las Comisiones Específicas tienen por finalidad garantizar el cumplimiento de los objetivos establecidos por los Órganos de Gobierno para cada comisión. Se integrarán por los miembros del Sindicato que deseen participar y estarán coordinadas por el Comité Ejecutivo</p>
-        <p><b>Nos regimos por nuestro estatuto y reglamento</b><span style="font-weight: 400;"> (Ver Normateca).</span></p></div>
+        <p><b>Nos regimos por nuestro estatuto y reglamento</b><span style="font-weight: 400;"> <a href="normateca">(Ver Normateca).</a> </span></p></div>
         
         <br><br><br>
         
