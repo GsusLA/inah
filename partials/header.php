@@ -25,7 +25,8 @@ require("partials/main.php");
                     <li class="nav-item"><a class="nav-link" href="index">Inicio</a></li>
                     <li class="nav-item"><a class="nav-link" href="somos">Quienes Somos</a></li>
                     <li class="nav-item"><a class="nav-link" href="comite_ejecutivo">Comité Ejecutivo</a></li>
-                    <li class="nav-item"><a class="nav-link" href="social_media">Social Media</a></li>
+                    <li class="nav-item"><a class="nav-link" href="multimedia">Multimedia</a></li>
+                    <li class="nav-item"><a class="nav-link" href="biblioteca">Biblioteca Digital</a></li>
                     <li class="nav-item"><a class="nav-link" href="comunicacion">Comunicación y Prensa</a></li>
                     <li class="nav-item"><a class="nav-link" href="normateca">Normateca</a></li>
                     <li class="nav-item"><a class="nav-link" href="ubicacion">Ubicación</a></li>
