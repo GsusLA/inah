@@ -24,71 +24,56 @@ require("partials/header.php");
                     <tr>
                         <td>Febrero</td>
                         <td>En conmemoración del 5 de febrero día de la promulgación de la Constitución de 1917</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Lunes 01/02/2021</td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Lunes 07/02/2022</td>
 
                     </tr>
                     <tr>
                         <td>Marzo</td>
                         <td>Conmemoración del 21 de marzo, natalicio de Benito Juárez</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Lunes 15/03/2021</td>
-
-                    </tr>
-                    <tr>
-                        <td>Marzo</td>
-                        <td>Periodo Vacacional</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> 29/03/2021 al 31/03/2021</td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Lunes 21/03/2022</td>
 
                     </tr>
                     <tr>
                         <td>Abril</td>
                         <td>Jueves Santo y Viernes Santo</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Jueves 01/04/2021 y Viernes 02/04/2021</td>
-                    </tr>
-                    <tr>
-                        <td>Mayo</td>
-                        <td>Día del Trabajo</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Sabado 01/05/2021</td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Lunes 11/04/2022 al Viernes 15/04/2022</td>
                     </tr>
                     <tr>
                         <td>Mayo</td>
                         <td>En conmemoración del Aniversario de la Batalla de Puebla</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Miércoles 05/05/2021</td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Jueves 05/05/2022</td>
+                    </tr>
+                    <tr>
+                        <td>Mayo</td>
+                        <td>Artículo 143 de las Condiciones Generales de Trabajo </td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Martes 10/05/2022</td>
                     </tr>
                     <tr>
                         <td>Julio</td>
                         <td>Periodo Vacacional</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> 19/07/2021 al 30/07/2021</td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> 18/07/2022 al 29/07/2022</td>
 
-                    </tr>
-                    <tr>
-                        <td>Julio</td>
-                        <td>Día del Empleado Federal</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Miércoles 21/07/2021</td>
                     </tr>
                     <tr>
                         <td>Septiembre</td>
                         <td>En conmemoración del día de la Independencia</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Jueves 16/09/2021</td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Viernes 16/09/2022</td>
                     </tr>
-                    <tr>
-                        <td>Octubre</td>
-                        <td>Día de la Raza</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Martes 12/10/2021</td>
-                    </tr>
+                    
                     <tr>
                         <td>Noviembre</td>
                         <td>En conmemoración al día de muertos</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Martes 02/11/2021 </td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Miercoles 02/11/2022 </td>
                     </tr>
                     <tr>
                         <td>Noviembre</td>
                         <td>En conmemoración del 20 de noviembre, día de la Revolución Mexicana</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Lunes 15/11/2021</td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Lunes 21/11/2022</td>
                     </tr>
                     <tr>
                         <td>Diciembre-Enero</td>
                         <td>Periodo Vacacional</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Viernes 24/12/2021 al Viernes 07/01/2022</td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Viernes 23/12/2022 al Viernes 06/01/2023</td>
                     </tr>
                 </tbody>
             </table>
