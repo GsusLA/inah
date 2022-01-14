@@ -5,7 +5,7 @@ require("partials/header.php");
 <div class="container" id="diasInabiles">
     <div class="row align-content-center justify-content-center">
         <div class="col-lg-10 col-md-10 col-12 tituloizq">
-            <h1>DÍAS INHÁBILES DEL 2021</h1>
+            <h1>DÍAS INHÁBILES DEL 2022</h1>
             <p style="font-size: 12px;">Las fechas son preliminares</p>
         </div>
     </div>
