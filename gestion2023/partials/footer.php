@@ -12,7 +12,7 @@
             </a>
         </div>
         <div class="col-md-4 col-sm-12">
-            <a href="../docs/pdf/AVISO_DE_PRIVACIDAD sntPROFINAH.pdf" target="_blank" style="color: white;">Aviso de Privacidad</a>
+            <a href="../docs/pdf/aviso_privacidad.pdf" target="_blank" style="color: white;">Aviso de Privacidad</a>
         </div>
     </div>
 </div>
