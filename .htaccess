@@ -14,4 +14,4 @@ RewriteRule ^(.*)$ $1.php
 #RewriteRule ^(.*)$ $1.html
 #RewriteRule ^([a-z]+)/?$ $1.html [NC]
 
-Redirect 301 /index /gestion2023/index
+Redirect 301 /index.php /gestion2023/index.php
