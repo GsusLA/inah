@@ -2,7 +2,7 @@
     --blue: #007bff;
     --backg-pres: #f4f4f49f;
     --font-color-big: #C32E26;
-    --font-color: #ffa09b;
+    --font-color: #44464A;
 }
 
 .index-cont{
@@ -35,6 +35,12 @@
 .ico-color{
     font-size: 35px;
     color: #C32E26;
+}
+
+.table-head{
+  background-color: #5e5e5e;
+  width: 100%; 
+  color:white;
 }
 
 

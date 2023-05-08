@@ -11,7 +11,7 @@ require("partials/header.php");
                         <h3>NORMATIVIDAD APLICABLE.</h3>
                     </div>
                     <table class="table table-striped">
-                        <thead class="thead-dark">
+                        <thead class="table-head">
                             <tr>
                                 <th class="text-left" colspan="2">GENERAL</th>
                             </tr>
@@ -62,7 +62,7 @@ require("partials/header.php");
                                 <td><a href="../assets/pdfs/LEY_GENERAL_DE_TRANSPARENCIA.pdf" target="_BLACK" style="color: darkred"><img src="../assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
                             </tr>
 
-                            <thead class="thead-dark">
+                            <thead class="table-head">
                                 <tr>
                                     <th class="text-left" colspan="2">LEYES ACTUALIZADAS</th>
                                 </tr>
@@ -115,7 +115,7 @@ require("partials/header.php");
                                 <td class="text-left">LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA 20/05/2021</td>
                                 <td><a href="../assets/pdfs/LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA_1.pdf" target="_BLACK" style="color: darkred"><img src="../assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
                             </tr>
-                            <thead class="thead-dark">
+                            <thead class="table-head">
                                 <tr>
                                     <th class="text-left" colspan="2">DOCUMENTOS DEL SNPICD-INAH</th>
                                 </tr>
@@ -157,7 +157,7 @@ require("partials/header.php");
                                 <td class="text-left"><br>Reglamento Seguridad e Higiene SPF</td>
                                 <td><a href="../assets/pdfs/Reglamento seguridad e higiene SPF.pdf" target="_BLACK" style="color: darkred"><img src="../assets/icons/ico-pdf.png" alt="Ver" class="ico-pdf"></a></td>
                             </tr>
-                            <thead class="thead-dark">
+                            <thead class="table-head">
                                 <tr>
                                     <th class="text-left" colspan="2">MANUAL DE LINEAMIENTOS PARA LA OPERACIÓN DEL FONDO DE AHORRO CAPITALIZABLE DE LOS TRABAJADORES AL SERVICIO DEL ESTADO (FONAC)</th>
                                 </tr>
