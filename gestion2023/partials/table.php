@@ -9,7 +9,7 @@
         <h3>NORMATIVIDAD APLICABLE.</h3>
     </div>
     <div class="col-md-12">
-        <a href="#general" class="btn" style="width: 100%; color:white; background-color:purple" data-toggle="collapse"><h4>GENERAL</h4></a>
+        <a href="#general" class="btn table-head" data-toggle="collapse"><h4>GENERAL</h4></a>
         <div id="general" class="collapse">
             <table class="table table-striped">
             <tbody class="table-hover">
@@ -62,7 +62,7 @@
         <br><br>
     </div>
     <div class="col-md-12">
-        <a href="#leyes" class="btn" style="width: 100%; color:white; background-color:purple" data-toggle="collapse"><h4>LEYES ACTUALIZADAS</h4></a>
+        <a href="#leyes" class="btn table-head" data-toggle="collapse"><h4>LEYES ACTUALIZADAS</h4></a>
         <div id="leyes" class="collapse">
             <table class="table table-striped">
                 <tbody class="table-hover">
@@ -89,7 +89,7 @@
         <br><br>
     </div>
     <div class="col-md-12">
-        <a href="#doctos" class="btn" style="width: 100%; color:white; background-color:purple" data-toggle="collapse"><h4>DOCUMENTOS DEL SNPICD-INAH</h4></a>
+        <a href="#doctos" class="btn table-head" data-toggle="collapse"><h4>DOCUMENTOS DEL SNPICD-INAH</h4></a>
         <div id="doctos" class="collapse">
             <table class="table table-striped">
                 <tbody class="table-hover">
@@ -131,7 +131,7 @@
         <br><br>
     </div>
     <div class="col-md-12">
-        <a href="#manual" class="btn" style="width: 100%; color:white; background-color:purple" data-toggle="collapse"><h4>MANUAL DE LINEAMIENTOS PARA LA OPERACIÓN DEL FONDO DE AHORRO (FONAC)</h4></a>
+        <a href="#manual" class="btn table-head" data-toggle="collapse"><h4>MANUAL DE LINEAMIENTOS PARA LA OPERACIÓN DEL FONDO DE AHORRO (FONAC)</h4></a>
         <div id="manual" class="collapse">
             <table class="table table-striped">
                 <tbody class="table-hover">
