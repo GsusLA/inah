@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="assets/css/footer.css"> 
     <link rel="stylesheet" href="assets/css/icons.css"> 
     <link rel="stylesheet" href="assets/css/index.css"> 
+    <link rel="stylesheet" href="assets/css/table-denuncias.css"> 
     <link rel="stylesheet" href="../../../assets/fontawesome/css/all.css"> 
 </head>
 </html>
