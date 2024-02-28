@@ -52,6 +52,14 @@ require("partials/header.php");
             <p><img src="assets/icons/quote_left.png" alt="Ver" class="ico-pdf"></i> Del periodo comprendido del 1° de julio de 2022 al 31 de diciembre de 2022 no se generaron expedientes reservados
                 <img src="assets/icons/quote_right.png" alt="Ver" class="ico-pdf">
             </p>
+            <hr>
+            <p><img src="assets/icons/quote_left.png" alt="Ver" class="ico-pdf"></i> Del periodo comprendido del 1° de enero de 2023 al 30 de junio de 2023 no se generaron expedientes reservados
+                <img src="assets/icons/quote_right.png" alt="Ver" class="ico-pdf">
+            </p>
+            <hr>
+            <p><img src="assets/icons/quote_left.png" alt="Ver" class="ico-pdf"></i> Del periodo comprendido del 1° de julio de 2023 al 31 de diciembre de 2023 no se generaron expedientes reservados
+                <img src="assets/icons/quote_right.png" alt="Ver" class="ico-pdf">
+            </p>
         </div>
     </div>
 </div>

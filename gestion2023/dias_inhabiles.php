@@ -24,51 +24,50 @@ require("partials/header.php");
                     <tr>
                         <td>Febrero</td>
                         <td>En conmemoración del 5 de febrero día de la promulgación de la Constitución de 1917</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Lunes 06/02/2023</td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Lunes 05/02/2024</td>
 
                     </tr>
                     <tr>
                         <td>Marzo</td>
                         <td>Conmemoración del 21 de marzo, natalicio de Benito Juárez</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Lunes 20/03/2023</td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Lunes 18/03/2024</td>
 
                     </tr>
                     <tr>
                         <td>Abril</td>
                         <td>Jueves Santo y Viernes Santo</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Lunes 03/04/2023 al Viernes 07/04/2023</td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Lunes 25/03/2024 al Viernes 29/03/2024</td>
                     </tr>
                     <tr>
                         <td>Mayo</td>
                         <td>En conmemoración del Día del Trabajo</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Lunes 01/05/2023</td>
-                    </tr>
-                    </tr>
-                    <tr>
-                        <td>Mayo</td>
-                        <td>En conmemoración del Aniversario de la Batalla de Puebla</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Viernes 05/05/2023</td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Miercoles 01/05/2024</td>
                     </tr>
                     <tr>
                         <td>Julio</td>
                         <td>Periodo Vacacional</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i>Lunes 17/07/2023 al Viernes 28/07/2023</td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i>Lunes 22/07/2024 al Viernes 02/08/2024</td>
 
                     </tr>
                     <tr>
-                        <td>Noviembre</td>
-                        <td>En conmemoración al día de muertos</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Jueves 02/11/2023 </td>
+                        <td>Septiembre</td>
+                        <td>Conmemoración del 16 de septiembre, Día de la Independencia</td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Lunes 16/09/2024 </td>
+                    </tr>
+                    <tr>
+                        <td>Octubre</td>
+                        <td>Con motivo de la transmisión del Poder Ejecutivo Federal</td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Martes 01/10/2024 </td>
                     </tr>
                     <tr>
                         <td>Noviembre</td>
                         <td>En conmemoración del 20 de noviembre, día de la Revolución Mexicana</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Lunes 20/11/2023</td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Lunes 18/11/2024</td>
                     </tr>
                     <tr>
                         <td>Diciembre-Enero</td>
                         <td>Periodo Vacacional</td>
-                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Jueves 21/12/2023 al Viernes 05/01/2024</td>
+                        <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Jueves 19/12/2024 al Viernes 03/01/2025</td>
                     </tr>
                 </tbody>
             </table>
