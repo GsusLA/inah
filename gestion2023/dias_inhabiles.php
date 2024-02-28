@@ -34,7 +34,7 @@ require("partials/header.php");
 
                     </tr>
                     <tr>
-                        <td>Abril</td>
+                        <td>Marzo</td>
                         <td>Jueves Santo y Viernes Santo</td>
                         <td><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Lunes 25/03/2024 al Viernes 29/03/2024</td>
                     </tr>
