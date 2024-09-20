@@ -382,6 +382,69 @@ require("partials/header.php");
             <hr>
         </div>
     </div>
+    <div class="row justify-content-center">
+        <div class="col-lg-10 col-md-12 col-12 ">
+            <p style="text-align: justify; text-justify: inter-word;"><img src="assets/icons/quote_left.png" alt="Ver" class="ico-pdf"> 
+            “Durante el mes de febrero de 2024, el Sindicato Nacional de Profesores de Investigación Científica y Docencia del INAH, no cuenta con denuncias ciudadanas ya sea por incumplimiento o por falta de actualización de las Obligaciones de Transparencia”
+                <img src="assets/icons/quote_right.png" alt="Ver" class="ico-pdf">
+            </p>
+            <hr>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-lg-10 col-md-12 col-12 ">
+            <p style="text-align: justify; text-justify: inter-word;"><img src="assets/icons/quote_left.png" alt="Ver" class="ico-pdf"> 
+            “Durante el mes de marzo de 2024, el Sindicato Nacional de Profesores de Investigación Científica y Docencia del INAH, no cuenta con denuncias ciudadanas ya sea por incumplimiento o por falta de actualización de las Obligaciones de Transparencia”
+                <img src="assets/icons/quote_right.png" alt="Ver" class="ico-pdf">
+            </p>
+            <hr>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-lg-10 col-md-12 col-12 ">
+            <p style="text-align: justify; text-justify: inter-word;"><img src="assets/icons/quote_left.png" alt="Ver" class="ico-pdf"> 
+            “Durante el mes de abril de 2024, el Sindicato Nacional de Profesores de Investigación Científica y Docencia del INAH, no cuenta con denuncias ciudadanas ya sea por incumplimiento o por falta de actualización de las Obligaciones de Transparencia”
+                <img src="assets/icons/quote_right.png" alt="Ver" class="ico-pdf">
+            </p>
+            <hr>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-lg-10 col-md-12 col-12 ">
+            <p style="text-align: justify; text-justify: inter-word;"><img src="assets/icons/quote_left.png" alt="Ver" class="ico-pdf"> 
+            “Durante el mes de mayo de 2024, el Sindicato Nacional de Profesores de Investigación Científica y Docencia del INAH, no cuenta con denuncias ciudadanas ya sea por incumplimiento o por falta de actualización de las Obligaciones de Transparencia”
+                <img src="assets/icons/quote_right.png" alt="Ver" class="ico-pdf">
+            </p>
+            <hr>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-lg-10 col-md-12 col-12 ">
+            <p style="text-align: justify; text-justify: inter-word;"><img src="assets/icons/quote_left.png" alt="Ver" class="ico-pdf"> 
+            “Durante el mes de junio de 2024, el Sindicato Nacional de Profesores de Investigación Científica y Docencia del INAH, no cuenta con denuncias ciudadanas ya sea por incumplimiento o por falta de actualización de las Obligaciones de Transparencia”
+                <img src="assets/icons/quote_right.png" alt="Ver" class="ico-pdf">
+            </p>
+            <hr>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-lg-10 col-md-12 col-12 ">
+            <p style="text-align: justify; text-justify: inter-word;"><img src="assets/icons/quote_left.png" alt="Ver" class="ico-pdf"> 
+            “Durante el mes de julio de 2024, el Sindicato Nacional de Profesores de Investigación Científica y Docencia del INAH, no cuenta con denuncias ciudadanas ya sea por incumplimiento o por falta de actualización de las Obligaciones de Transparencia”
+                <img src="assets/icons/quote_right.png" alt="Ver" class="ico-pdf">
+            </p>
+            <hr>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-lg-10 col-md-12 col-12 ">
+            <p style="text-align: justify; text-justify: inter-word;"><img src="assets/icons/quote_left.png" alt="Ver" class="ico-pdf"> 
+            “Durante el mes de agosto de 2024, el Sindicato Nacional de Profesores de Investigación Científica y Docencia del INAH, no cuenta con denuncias ciudadanas ya sea por incumplimiento o por falta de actualización de las Obligaciones de Transparencia”
+                <img src="assets/icons/quote_right.png" alt="Ver" class="ico-pdf">
+            </p>
+            <hr>
+        </div>
+    </div>
 </div>
 
 <?php
