@@ -28,6 +28,34 @@ require("partials/header.php");
             <tbody>
                 <tr>
                     <td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                    <td><i class="fa fa-quote-left" aria-hidden="true"></i> “Durante el mes de agosto de 2024, el Sindicato Nacional de Profesores de Investigación Científica y Docencia del INAH no cuenta con denuncias ciudadanas ya sea por incumplimiento o por falta de actualización de las Obligaciones de Transparencia”<i class="fa fa-quote-right" aria-hidden="true"></i></td>
+                </tr>
+                <tr>
+                    <td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                    <td><i class="fa fa-quote-left" aria-hidden="true"></i> “Durante el mes de julio de 2024, el Sindicato Nacional de Profesores de Investigación Científica y Docencia del INAH no cuenta con denuncias ciudadanas ya sea por incumplimiento o por falta de actualización de las Obligaciones de Transparencia”<i class="fa fa-quote-right" aria-hidden="true"></i></td>
+                </tr>
+                <tr>
+                    <td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                    <td><i class="fa fa-quote-left" aria-hidden="true"></i> “Durante el mes de junio de 2024, el Sindicato Nacional de Profesores de Investigación Científica y Docencia del INAH no cuenta con denuncias ciudadanas ya sea por incumplimiento o por falta de actualización de las Obligaciones de Transparencia”<i class="fa fa-quote-right" aria-hidden="true"></i></td>
+                </tr>
+                <tr>
+                    <td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                    <td><i class="fa fa-quote-left" aria-hidden="true"></i> “Durante el mes de mayo de 2024, el Sindicato Nacional de Profesores de Investigación Científica y Docencia del INAH no cuenta con denuncias ciudadanas ya sea por incumplimiento o por falta de actualización de las Obligaciones de Transparencia”<i class="fa fa-quote-right" aria-hidden="true"></i></td>
+                </tr>
+                <tr>
+                    <td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                    <td><i class="fa fa-quote-left" aria-hidden="true"></i> “Durante el mes de abril de 2024, el Sindicato Nacional de Profesores de Investigación Científica y Docencia del INAH no cuenta con denuncias ciudadanas ya sea por incumplimiento o por falta de actualización de las Obligaciones de Transparencia”<i class="fa fa-quote-right" aria-hidden="true"></i></td>
+                </tr>
+                <tr>
+                    <td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                    <td><i class="fa fa-quote-left" aria-hidden="true"></i> “Durante el mes de marzo de 2024, el Sindicato Nacional de Profesores de Investigación Científica y Docencia del INAH no cuenta con denuncias ciudadanas ya sea por incumplimiento o por falta de actualización de las Obligaciones de Transparencia”<i class="fa fa-quote-right" aria-hidden="true"></i></td>
+                </tr>
+                <tr>
+                    <td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+                    <td><i class="fa fa-quote-left" aria-hidden="true"></i> “Durante el mes de febrero de 2024, el Sindicato Nacional de Profesores de Investigación Científica y Docencia del INAH no cuenta con denuncias ciudadanas ya sea por incumplimiento o por falta de actualización de las Obligaciones de Transparencia”<i class="fa fa-quote-right" aria-hidden="true"></i></td>
+                </tr>
+                <tr>
+                    <td></td><td></td><td></td><td></td><td></td><td></td><td></td>
 					<td><i class="fa fa-quote-left" aria-hidden="true"></i> “Durante el mes de enero de 2024, el Sindicato Nacional de Profesores de Investigación Científica y Docencia del INAH no cuenta con denuncias ciudadanas ya sea por incumplimiento o por falta de actualización de las Obligaciones de Transparencia”<i class="fa fa-quote-right" aria-hidden="true"></i></td>
 				</tr>
                 <tr>
