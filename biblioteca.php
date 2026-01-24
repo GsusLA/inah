@@ -15,7 +15,7 @@ require("partials/header.php");
 
     <div class="tab-content" id="nav-tabContent">
         <div aria-labelledby="nav-profile-tab" class="tab-pane fade show active" id="nav-profile" role="tabpanel">
-            <h3 class="main-title">Próximamente</h3>
+            <h3 class="main-title">Próximamente!!</h3>
         </div>
         <div aria-labelledby="nav-contact-tab" class="tab-pane fade" id="nav-contact" role="tabpanel" style="display:block;">
             <h3 class="main-title">Próximamente</h3>
