@@ -1,10 +1,6 @@
 <br><br><br><br><br><br>
 <div class="footer">
-<<<<<<< HEAD
     <div class="row" style="background-color: #1F4E79;">
-=======
-    <div class="row" style="background-color: #C32E26;">
->>>>>>> 3769c64 (Avance gestion 2026)
         <div class="col-md-4 col-sm-12">
             <a href="https://www.plataformadetransparencia.org.mx/web/guest/inicio" target="_blank" rel="noopener noreferrer">
                 <img src="assets/img/01.png" alt="" style="width:150px;height:56px;">
