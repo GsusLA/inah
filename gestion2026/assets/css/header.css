@@ -1,0 +1,116 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Lato", sans-serif;
+}
+
+img {
+  max-width: 85%;
+  height: auto;
+  margin-left: 0px;
+  margin-top: 0px;
+  background: #C32E26;
+}
+
+.dd-menu {
+  margin-top: -30px;
+}
+
+.ml-auto .dropdown-menu {
+  left: auto !important;
+  right: 0px;
+}
+
+@media (min-width: 376px) {
+  .gestion {
+    text-align: center;
+    color: aliceblue;
+    margin-top: -15px;
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 768px) {
+  .gestion {
+    text-align: center;
+    color: aliceblue;
+    margin-top: -20px;
+    font-size: 15px;
+  }
+}
+
+.navbar {
+  padding: 0;
+  transition: background 0.5s ease-in-out 0s, padding 0.5s ease-in-out 0s;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: #F827F6;
+    padding: 0.8rem 1rem;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: #ffffff !important;
+    padding: .4rem .4rem;
+}
+
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff !important;
+    background-color: #5e5e5e;
+    
+}.navbar-custom {
+  color: #310202;
+  background-color: #44464A !important; 
+  margin-top: -10px;
+  height: fit-content;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: #7151d1;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: #7151d1;
+}
+
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff;
+}
+
+.navbar-custom .dropdown-menu {
+    background-color: #44464A;
+}
+.navbar-custom .dropdown-item {
+    color: #ffffff;
+}
+.navbar-custom .dropdown-item:hover,
+.navbar-custom .dropdown-item:focus {
+    color: #ffffff;
+    background-color: #5e5e5e;
+}
+
+@media (min-width: 992px) {
+  .gestion {
+    text-align: center;
+    margin-top: -28px;
+    font-size: 22px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .gestion {
+    text-align: center;
+    color: aliceblue;
+    margin-top: -35px;
+    font-size: 25px;
+  }
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+}
