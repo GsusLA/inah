@@ -1,7 +1,7 @@
 :root {
     --blue: #007bff;
     --backg-pres: #f4f4f49f;
-    --font-color-big: #C32E26;
+    --font-color-big: #1F4E79;
     --font-color: #44464A;
 }
 
@@ -34,7 +34,7 @@
 
 .ico-color{
     font-size: 35px;
-    color: #C32E26;
+    color: #1F4E79;
 }
 
 .table-head{
@@ -59,7 +59,7 @@
     font-weight: 600;
     text-align: center;
     position: relative;
-    color: #C32E26;
+    color: #1F4E79;
     max-width: 90%;
     margin: auto; }
 
@@ -69,7 +69,7 @@
     font-weight: 600;
     text-align: center;
     position: relative;
-    color: #C32E26;
+    color: #1F4E79;
     max-width: 90%;
     margin: auto; }
   
@@ -79,7 +79,7 @@
     text-transform: uppercase;
     line-height: 30px;
     letter-spacing: 1px;
-    color: #C32E26;
+    color: #1F4E79;
     display: block; }
 
   .modal-title-big {
@@ -95,7 +95,7 @@
     font-size: 26px;
     line-height: 48px;
     font-weight: 600;
-    color: #C32E26;
+    color: #1F4E79;
     text-align: left;
     position: relative;
     max-width: 90%;
