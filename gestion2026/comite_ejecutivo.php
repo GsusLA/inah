@@ -11,7 +11,7 @@ require("partials/header.php");
         <div class="col-lg-6 offset-lg-3 mt-lg-3 mt-md-2 mt-6">
             <div class="row"  onMouseOver="this.style.cursor='pointer'" @click="modal(1)" data-toggle="modal" data-target=".modal"> 
                 <div class="col-3">
-                    <div class="text-centered"> <img src="assets/img/logo-inah-t.png" width="100%" class="rounded-circle" alt="" style="background-color: #C32E26;"> </div>
+                    <div class="text-centered"> <img src="assets/img/logo-inah-t.png" width="100%" class="rounded-circle" alt="" style="background-color: #1F4E79;"> </div>
                 </div>
                 <div class="col-9">
                     <h3 class="title-small"> <span class="fa fa-users ico-color"></span> Comité Ejecutivo SNPICD-INAH 2026-2029</h3>
@@ -26,7 +26,7 @@ require("partials/header.php");
         <div class="col-lg-6 mt-lg-3 mt-md-2 mt-6">
             <div class="row"  onMouseOver="this.style.cursor='pointer'" @click="modal(2)" data-toggle="modal" data-target=".modal">
                 <div class="col-3">
-                    <div class="text-centered"> <img src="assets/img/logo-inah-t.png" width="100%" class="rounded-circle" alt="" style="background-color: #C32E26;"> </div>
+                    <div class="text-centered"> <img src="assets/img/logo-inah-t.png" width="100%" class="rounded-circle" alt="" style="background-color: #1F4E79;"> </div>
                 </div>
                 <div class="col-9">
                     <h3 class="title-small">Jesús Ernesto Velasco González</h3>
@@ -38,7 +38,7 @@ require("partials/header.php");
         <div class="col-lg-6 mt-lg-3 mt-md-2 mt-6">
             <div class="row" onMouseOver="this.style.cursor='pointer'" @click="modal(3)" data-toggle="modal" data-target=".modal">
                 <div class="col-3">
-                    <div class="text-centered"> <img src="assets/img/logo-inah-t.png" width="100%" class="rounded-circle" alt="" style="background-color: #C32E26;"> </div>
+                    <div class="text-centered"> <img src="assets/img/logo-inah-t.png" width="100%" class="rounded-circle" alt="" style="background-color: #1F4E79;"> </div>
                 </div>
                 <div class="col-9">
                     <h3 class="title-small">Laura Herrera Serna </h3>
@@ -52,7 +52,7 @@ require("partials/header.php");
         <div class="col-lg-6 mt-lg-3 mt-md-2 mt-6">
             <div class="row" onMouseOver="this.style.cursor='pointer'" @click="modal(4)" data-toggle="modal" data-target=".modal">
                 <div class="col-3">
-                    <div class="text-centered"> <img src="assets/img/logo-inah-t.png" width="100%" class="rounded-circle" alt="" style="background-color: #C32E26;"> </div>
+                    <div class="text-centered"> <img src="assets/img/logo-inah-t.png" width="100%" class="rounded-circle" alt="" style="background-color: #1F4E79;"> </div>
                 </div>
                 <div class="col-9">
                     <h3 class="title-small">Fernando Alberto Miranda Flores</h3>
@@ -63,7 +63,7 @@ require("partials/header.php");
         <div class="col-lg-6 mt-lg-3 mt-md-2 mt-6">
                 <div class="row" onMouseOver="this.style.cursor='pointer'" @click="modal(5)" data-toggle="modal" data-target=".modal">
                 <div class="col-3">
-                    <div class="text-centered"> <img src="assets/img/logo-inah-t.png" width="100%" class="rounded-circle" alt="" style="background-color: #C32E26;"> </div>
+                    <div class="text-centered"> <img src="assets/img/logo-inah-t.png" width="100%" class="rounded-circle" alt="" style="background-color: #1F4E79;"> </div>
                 </div>
                 <div class="col-9">
                     <h3 class="title-small">Rosa María Vanegas García </h3>
@@ -76,7 +76,7 @@ require("partials/header.php");
         <div class="col-lg-6 mt-lg-3 mt-md-2 mt-6">
             <div class="row" onMouseOver="this.style.cursor='pointer'" @click="modal(6)" data-toggle="modal" data-target=".modal">
                 <div class="col-3">
-                    <div class="text-centered"> <img src="assets/img/logo-inah-t.png" width="100%" class="rounded-circle" alt="" style="background-color: #C32E26;"> </div>
+                    <div class="text-centered"> <img src="assets/img/logo-inah-t.png" width="100%" class="rounded-circle" alt="" style="background-color: #1F4E79;"> </div>
                 </div>
                 <div class="col-9">
                     <h3 class="title-small">Allan Ortega Muñoz</h3>
@@ -87,7 +87,7 @@ require("partials/header.php");
         <div class="col-lg-6 mt-lg-3 mt-md-2 mt-6">
             <div class="row" onMouseOver="this.style.cursor='pointer'" @click="modal(7)" data-toggle="modal" data-target=".modal">
                 <div class="col-3">
-                    <div class="text-centered"> <img src="assets/img/logo-inah-t.png" width="100%" class="rounded-circle" alt="" style="background-color: #C32E26;"> </div>
+                    <div class="text-centered"> <img src="assets/img/logo-inah-t.png" width="100%" class="rounded-circle" alt="" style="background-color: #1F4E79;"> </div>
                 </div>
                 <div class="col-9">
                     <h3 class="title-small">Verónica Rodríguez Manzo </h3>
@@ -105,7 +105,7 @@ require("partials/header.php");
                 <div class="modal-body">
                     <div class="row">
                         <div class="col-md-3 col-sm-12 offset-md-1">
-                            <div class="text-centered"> <img :src="integrantes[integrante].imagen" width="100%" class="rounded-circle" alt="" style="background-color: #C32E26;"> </div>
+                            <div class="text-centered"> <img :src="integrantes[integrante].imagen" width="100%" class="rounded-circle" alt="" style="background-color: #1F4E79;"> </div>
                         </div>
                         <div class="col-md-8 col-sm-12 my-auto">
                             <h3 class="modal-title-mid"><span v-html="integrantes[integrante].nombre"></span></h3>
